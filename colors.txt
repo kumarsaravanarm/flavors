@@ -4,4 +4,7 @@ yellow
 grey 
 brown
 super green
+gloden
+white
+black
 
