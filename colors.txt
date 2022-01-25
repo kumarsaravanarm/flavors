@@ -8,3 +8,5 @@ black
 dark grey
 dark blue
 light yellow
+night light 
+silent yellow
