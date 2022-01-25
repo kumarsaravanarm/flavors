@@ -3,6 +3,5 @@ blue
 yellow
 grey 
 brown
-black
-white
+super green
 
