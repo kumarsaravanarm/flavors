@@ -1,10 +1,10 @@
-violet
-grey 
-brown
+
 super green
 white
 black
 gloden
 white
 black
-
+dark grey
+dark blue
+light yellow
